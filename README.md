@@ -50,3 +50,12 @@ Here is the schematics of the following project.
 ![alt text][pic2]
 
 [pic2]: https://github.com/VaibhavoCrack/Project-CS207/blob/master/Img/Project%203D_schem.jpg?raw=true
+
+
+# Usage
+
+
+
+# Credits
+
+* **Trevor Tomesh** - For repository example and for teaching too .
