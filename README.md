@@ -37,8 +37,15 @@ Materials Used :
 * 2x LEDs
 * 1x Piezo buzzer
 
+# Schematics
+
+This is a 3D design for this project. It is also included in images folder.
 
 
 
+
+
+
+v
 
 
