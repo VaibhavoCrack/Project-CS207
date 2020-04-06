@@ -37,7 +37,7 @@ Materials Used :
 * 2x LEDs
 * 1x Piezo buzzer
 
-# Schematics
+# Design and Schematics
 
 This is a 3D design for this project. It is also included in images folder.
 
@@ -45,4 +45,8 @@ This is a 3D design for this project. It is also included in images folder.
 
 [pic1]: https://github.com/VaibhavoCrack/Project-CS207/blob/master/Img/Project%203D_bb.jpg?raw=true
 
+Here is the schematics of the following project.
 
+![alt text][pic2]
+
+[pic2]: https://github.com/VaibhavoCrack/Project-CS207/blob/master/Img/Project%203D_schem.jpg?raw=true
