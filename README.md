@@ -41,11 +41,8 @@ Materials Used :
 
 This is a 3D design for this project. It is also included in images folder.
 
+![alt text][pic1]
 
-
-
-
-
-v
+[pic1]: https://github.com/VaibhavoCrack/Project-CS207/blob/master/Img/Project%203D_bb.jpg?raw=true
 
 
