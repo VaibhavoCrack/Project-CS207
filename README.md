@@ -48,4 +48,5 @@ This is a 3D design for this project. It is also included in images folder.
 Here is the schematics of the following project.
 
 ![alt text][pic2]
+
 [pic2]: https://github.com/VaibhavoCrack/Project-CS207/blob/master/Img/Project%203D_schem.jpg?raw=true
