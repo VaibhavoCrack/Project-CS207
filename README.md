@@ -4,6 +4,7 @@
 This project is based on the security of any given place using a RFID scanner. The initial project made by Aritro Mukherjee was just the basic function that is tap the right card and you get access, tap the wrong card and stay outside. The updated version of the project has 2 LEDs(red and green) and a piezo.When the right card is tapped on RFID, green LED lights up and piezo gives an affirming beep and vice versa. Adding to this, if the wrong card is tapped, the guy who is controlling the scanner will get an email and a notification of his phone about the false attempt. I had to use **Blynk** app for the update.
 
 ![alt text][pic3]
+
 [pic3]:https://github.com/VaibhavoCrack/Project-CS207/blob/master/Hardware/Final%20build.jpeg?raw=true
                                   
                                 
