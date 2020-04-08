@@ -13,11 +13,11 @@ This project is based on the security of any given place using a RFID scanner. T
 
 This repository contains the following content :--
  
-* **/src** -
-* **/hardware** - 3D design model of the project.
-* **/build** - 
+* **/src** - Scratch code for this project.
+* **/hardware** - Final build of hardware of the project.
+* **/Final build** - The final code for this project. 
 * **/libraries** - There are couple of libraries used in this project.
-* **/img** - The images used in the following README file.
+* **/img** - The images of schematics and 3D design of the project.
 * **/LICENSE** - The license file.
 * **/README.md** - A short summary of this repository.
 
