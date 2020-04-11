@@ -53,7 +53,7 @@ Here is the schematics of the following project.
 
 
 # Usage
-
+This project can enhance the security of your chosen place. RFID reader is very precise and so any difference in signals wont allow you to get access to that place.This can be used in highly secretive and confidential area. 
 
 
 # Credits
